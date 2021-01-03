@@ -1,6 +1,8 @@
 # PGP - AIML - Great Lakes Course
 
 [Academic ePortfolio Link](https://eportfolio.greatlearning.in/umang-maheshwari)
+[Completion Certificate Link](https://olympus1.greatlearning.in/certificate/ZDXXLGAQ)
+[Transcript Link](https://olympus1.greatlearning.in/transcript/BCUUZTOE)
 
 This repository have all the assignments and Project which I worked during my 1 year **Post Graduate Program in Artificial Intelligence and Machine Learning**.
 
